@@ -2,14 +2,14 @@
 CSCE 636 - Neural Networks, course project. 
 To predict the crypto-currency prices using DNN models
 
-The following files are present in the repository
+# Name : Samyuktha Sankaran
+# UIN: 327006025
 
-Crypto_prediction-approach1 - This is one-hot-encoding approach.
-Cryptocurrency-prediction-approach2 - This is using a Bidirectional LSTM.
+The following files are present in the repository:
 
-Cryptocurrency-initial - This is the initial base model, which was further improved in the above two approaches.
-
-gui.py - file for GUI.
-
-datasets - contain the necessary datasets to run the code.
-Sample images - contain sample images of the results.
+1. Crypto_prediction-approach1 - This is one-hot-encoding approach.
+2. Cryptocurrency-prediction-approach2 - This is using a Bidirectional LSTM.
+3. Cryptocurrency-initial - This is the initial base model, which was further improved in the above two approaches.
+4. gui.py - file for GUI.
+5. datasets - contain the necessary datasets to run the code.
+6. Sample images - contain sample images of the results.
